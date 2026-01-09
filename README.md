@@ -4,7 +4,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-eTVJ2KVpqz](https://www.frontendmentor.io/solutions/results-summary-component-eTVJ2KVpqz)
 - Live Site URL: [https://z-khutsishvili.github.io/results-summary-component/](https://z-khutsishvili.github.io/results-summary-component/)
 
 ## Built with
