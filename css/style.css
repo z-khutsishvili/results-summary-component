@@ -13,6 +13,7 @@
     --white: hsl(0, 0%, 100%);
     --pale-blue: hsl(221, 100%, 96%);
     --light-lavender: hsl(241, 100%, 89%);
+    --very-light-lavender: hsl(218, 100%, 96%);
     --dark-gray-blue: hsl(224, 30%, 27%);
 }
 
@@ -30,6 +31,7 @@ body {
     font-size: 1.125rem;
     font-family: 'Hanken Grotesk', sans-serif;
     min-height: 100vh;
+    background-color: var(--very-light-lavender);
 }
 
 .results-summary {
